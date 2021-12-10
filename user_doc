@@ -1,0 +1,13 @@
+User Document:
+
+Step 1: Execute "app.py" file to start the server.
+
+Step 2: Execute "http://127.0.0.1:5000/nourish.me/api/v1/menu" on browser for JSON response text.
+			
+Step 3: Provide JSON response(menu.json) in textbox and Click on Get JSON button.
+
+Step 4: Page will redirect to "http://127.0.0.1:5000/nourish.me/api/v1/bulk/order".
+
+Step 5: Click on Create Order Button.
+		Respective generated json request based on "employee_orders.xml" will populate on screen.
+			
